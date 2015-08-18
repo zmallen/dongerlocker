@@ -1,6 +1,6 @@
 DongerLocker
 ===
-Super dank java based crypto locker
+Super dank Scala based crypto locker
 
 I wrote this in a hack/prep night to for the information security talent search (ISTS) @ Rochester Institute of Technology.
 
