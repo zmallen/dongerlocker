@@ -2,7 +2,7 @@ DongerLocker
 ===
 Super dank Scala based crypto locker
 
-I wrote this in a hack/prep night to for the information security talent search (ISTS) @ Rochester Institute of Technology.
+I wrote this in a hack/prep night to for the [information security talent search](http://ists.sparsa.org/) (ISTS) @ Rochester Institute of Technology.
 
 Its by no way production ready, but it runs on a JVM so if you can find a box with Java on it (Windows or Linux), it will perform its function. 
 
