@@ -2,6 +2,12 @@ DongerLocker
 ===
 Super dank java based crypto locker
 
+I wrote this in a hack/prep night to for the information security talent search (ISTS) @ Rochester Institute of Technology.
+
+Its by no way production ready, but it runs on a JVM so if you can find a box with Java on it (Windows or Linux), it will perform its function. 
+
+Please improve/learn from this, its academic code and in no way do I endorse using this for evil.
+
 Build
 ===
 Make sure sbt is installed
